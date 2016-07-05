@@ -1,0 +1,6 @@
+c:\users\allan.oliveira\documents\visual studio 2013\Projects\distr_binomial_geo\distr_binomial_geo\bin\Debug\distr_binomial_geo.exe.config
+c:\users\allan.oliveira\documents\visual studio 2013\Projects\distr_binomial_geo\distr_binomial_geo\bin\Debug\distr_binomial_geo.exe
+c:\users\allan.oliveira\documents\visual studio 2013\Projects\distr_binomial_geo\distr_binomial_geo\bin\Debug\distr_binomial_geo.pdb
+c:\users\allan.oliveira\documents\visual studio 2013\Projects\distr_binomial_geo\distr_binomial_geo\obj\Debug\distr_binomial_geo.csprojResolveAssemblyReference.cache
+c:\users\allan.oliveira\documents\visual studio 2013\Projects\distr_binomial_geo\distr_binomial_geo\obj\Debug\distr_binomial_geo.exe
+c:\users\allan.oliveira\documents\visual studio 2013\Projects\distr_binomial_geo\distr_binomial_geo\obj\Debug\distr_binomial_geo.pdb
